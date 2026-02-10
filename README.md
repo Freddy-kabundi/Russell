@@ -4,3 +4,4 @@ dans ce fichier, voici les noms de ceux qui vont contribué au developpement de 
 
 Freddy kabundi
 Luminostudio
+Fred
